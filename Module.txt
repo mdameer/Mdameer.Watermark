@@ -1,0 +1,13 @@
+﻿Name: Mdameer.Watermark
+AntiForgery: enabled
+Author: Mdameer
+Website: http://mdameer.com
+Version: 1.0
+OrchardVersion: 1.10
+Description: Adds a image overlay or text watermark to the site images.
+Features:
+    Mdameer.Watermark:
+		Name: Image Watermark
+        Description: Adds a image overlay or text watermark to the site images.
+		Category: Media
+		Dependencies: Orchard.MediaLibrary
